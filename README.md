@@ -1,3 +1,6 @@
+# OUTDATED AND BROKEN!
+[CLICK HERE FOR THE UPDATED VERSION!](https://github.com/sneakyandt4g/example-website-v2)
+
 # example-website Repository!
 
 This is made for absolute beginners who just started using GitHub and want to make a website using it.
