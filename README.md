@@ -1,5 +1,5 @@
 # OUTDATED AND BROKEN!
-[CLICK HERE FOR THE UPDATED VERSION!](https://github.com/sneakyandt4g/example-website-v2)
+[CLICK HERE FOR THE UPDATED VERSION!](https://github.com/ST5Sneaky/example-website-v2/)
 
 # example-website Repository!
 
